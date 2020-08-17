@@ -1,0 +1,66 @@
+body{
+margin: 0;
+font-family:  sans-serif;
+
+
+}
+div{
+    background-color: #1d1b38;
+height: 600px;
+width: 1440px;
+
+}
+
+
+.desktop-img{
+    margin:300px auto;
+    width: 1440px;
+
+}
+
+.button{
+    height: 80px;
+        width: 400px;
+    padding: 50px 0 0 30px;
+    background-color: #394989;
+    position:absolute;
+      top: 270px;
+    left: 650px;
+    border-radius: 10px;
+}
+label{
+    position: absolute ;
+    top: 30px;
+}
+h1{
+    position: absolute ;
+    top: 10px;
+    color: white;
+    font-size: 35px;
+    
+}
+.fylo{
+
+    height: 120px;
+    width:250px;
+    padding: 50px 0 0 30px;
+    background-color: #394989;
+    position:absolute;
+    top: 230px;
+left:330px;
+border-radius: 20px 80px 10px 10px ;
+    
+}
+.icon{
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color:#1d1b38;
+border: solid 10px;
+border-radius: 5px;
+
+}
+#range-button{
+    width: 350px;
+    margin-top: 10px;
+      
+}
